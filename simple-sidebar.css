@@ -104,7 +104,6 @@
     #wrapper.toggled {
         padding-left: 0;
     }
-
     #sidebar-wrapper {
         width: 250px;
     }
@@ -122,7 +121,7 @@
         position: relative;
         margin-right: 0;
     }
-}
+
 .project {
 	height:500px;
 	background-color:red;
@@ -130,6 +129,12 @@
 	
 }
 
+
+.two {
+	float:left;
+	
+	
+}
 
 
 
