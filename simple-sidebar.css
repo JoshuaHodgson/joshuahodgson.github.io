@@ -1,4 +1,11 @@
-/* add a little bottom space under the images */
+
+.sidebar{
+	height:100%;
+	width:30%;
+	background-color:red;
+}
+
+
 .thumbnail {
 	margin-bottom:7px;
 }
