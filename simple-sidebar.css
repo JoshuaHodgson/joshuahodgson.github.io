@@ -121,17 +121,15 @@
         position: relative;
         margin-right: 0;
     }
-
+}
 .project {
 	height:500px;
 	width:45%;
  	padding: 20px;
- 	margin:20px;
+ 	margin:5px;
 	background-color:#E5E4E2;
 	float:left;
-	
-	
-}
+	}
 
 
 
