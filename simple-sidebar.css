@@ -105,7 +105,7 @@
         padding-left: 0;
     }
     #sidebar-wrapper {
-        width: 250px;
+        width: 300px;
     }
 
     #wrapper.toggled #sidebar-wrapper {
@@ -126,13 +126,8 @@
 	height:500px;
 	width:45%;
  	padding: 20px;
+ 	margin:20px;
 	background-color:#E5E4E2;
-	
-	
-}
-
-
-.two {
 	float:left;
 	
 	
