@@ -3,13 +3,16 @@
 	height:100%;
 	width:30%;
 	background-color:red;
-	position:absolute; 
+	position:fixed; 
 }
 
 
 .project{
 	background-color:pink;
-	padding: 50%;
+	width:50%;
+	height:50%;
+	
+
 	
 	
 }
