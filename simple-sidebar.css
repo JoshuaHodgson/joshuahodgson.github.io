@@ -123,8 +123,10 @@
     }
 }
 .project {
-	height:800px;
-	width:800px;
+	max-height:700px;
+	max-width:700px;
+	min-height:600px;
+	min-width:600px;
  	padding: 5px;
  	margin:5px;
 	background-color:#E5E4E2;
