@@ -36,8 +36,9 @@
 
 #page-content-wrapper {
     width: 100%;
-    position: absolute;
+	margin: 0 auto;
     padding: 15px;
+    
 }
 
 #wrapper.toggled #page-content-wrapper {
@@ -120,8 +121,8 @@
     }
 }
 .project {
-	max-height:700px;
-	max-width:700px;
+	max-height:750px;
+	max-width:750px;
 	min-height:600px;
 	min-width:600px;
  	padding: 5px;
